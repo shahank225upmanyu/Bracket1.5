@@ -18,7 +18,7 @@ ANCHOR_LOCATIONS = {
 MEASURED_POWER = -48  # RSSI at 1 meter (Optimized for your data)
 N = 3.2               # Indoor path-loss exponent
 
-# Kalman Filter Storage for smoothing
+#  Kalman Filter Storage for smoothing
 kf_states = {} 
 
 def kalman_filter(ssid, rssi):
