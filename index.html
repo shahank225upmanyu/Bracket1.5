@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain Expansion - Braket1.5</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-anim"></div>
+    <div class="overlay-mesh"></div>
+    
+    <div class="container">
+        <!-- HEADER -->
+        <header class="glass-header">
+            <div class="header-info">
+                <h4>AHOUBA 3.0 // CODE RONIN</h4>
+                <h2>BRAKET 1.5</h2>
+            </div>
+            <div class="header-title">
+                <h1 class="project-title">DOMAIN<br/><span class="accent-text">EXPANSION</span></h1>
+            </div>
+        </header>
+
+        <!-- MAIN LAYOUT -->
+        <main class="terminals-wrapper">
+            
+            <!-- VQC Filter Stream Panel -->
+            <div class="glass-terminal">
+                <div class="terminal-header">
+                    <div class="dots">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                    </div>
+                    <span class="terminal-title">>>> VQC FILTER ENGINE</span>
+                    <span class="status-indicator live">LIVE</span>
+                </div>
+                <div class="terminal-body" id="vqc-filter-log">
+                    <div class="log-line system-msg">[SYSTEM] Connecting to Quantum Telemetry Engine...</div>
+                </div>
+            </div>
+
+            <!-- VQC Noise Filter Stream Panel -->
+            <div class="glass-terminal">
+                <div class="terminal-header">
+                    <div class="dots">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                    </div>
+                    <span class="terminal-title">>>> VQC NOISE FILTER </span>
+                    <span class="status-indicator live">LIVE</span>
+                </div>
+                <div class="terminal-body" id="vqc-noise-log">
+                    <div class="log-line system-msg">[SYSTEM] Initializing Local Ambient Noise Detection...</div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
