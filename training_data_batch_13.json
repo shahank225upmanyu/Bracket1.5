@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "project_id": "RSI-TRACKER-V1.5-LOG-013",
+    "engineer": "Admin_Sensor_Lab",
+    "environment": "Obstructed_Office",
+    "noise_floor": -98.2
+  },
+  "points": [
+    {
+      "point_id": "P13_00",
+      "ground_truth_m": 1.75,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -51.29,
+          "std_dev": 3.45,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -47.57,
+          "std_dev": 2.02,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -47.58,
+          "std_dev": 2.25,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_01",
+      "ground_truth_m": 2.11,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -49.88,
+          "std_dev": 2.78,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -50.65,
+          "std_dev": 1.66,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -54.1,
+          "std_dev": 2.45,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_02",
+      "ground_truth_m": 1.57,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -48.58,
+          "std_dev": 3.87,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -50.07,
+          "std_dev": 1.48,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -46.28,
+          "std_dev": 0.5,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_03",
+      "ground_truth_m": 5.0,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -65.25,
+          "std_dev": 1.64,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -62.82,
+          "std_dev": 2.7,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -64.73,
+          "std_dev": 3.36,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_04",
+      "ground_truth_m": 4.3,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -59.05,
+          "std_dev": 2.77,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -56.12,
+          "std_dev": 1.43,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -56.89,
+          "std_dev": 2.31,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_05",
+      "ground_truth_m": 4.8,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -60.92,
+          "std_dev": 2.6,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -57.29,
+          "std_dev": 1.8,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -60.67,
+          "std_dev": 3.61,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_06",
+      "ground_truth_m": 0.98,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -115,
+          "std_dev": 0.76,
+          "anomaly_flag": "SIGNAL_SHADOWING"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -39.88,
+          "std_dev": 2.86,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -39.95,
+          "std_dev": 3.99,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_07",
+      "ground_truth_m": 0.88,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -40.58,
+          "std_dev": 1.7,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -40.72,
+          "std_dev": 1.23,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -42.35,
+          "std_dev": 0.52,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_08",
+      "ground_truth_m": 1.4,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -115,
+          "std_dev": 3.98,
+          "anomaly_flag": "SIGNAL_SHADOWING"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -47.82,
+          "std_dev": 2.27,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -44.09,
+          "std_dev": 1.08,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_09",
+      "ground_truth_m": 0.69,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -39.32,
+          "std_dev": 2.46,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -40.03,
+          "std_dev": 2.6,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -38.42,
+          "std_dev": 3.77,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_10",
+      "ground_truth_m": 5.51,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -65.31,
+          "std_dev": 2.07,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -63.3,
+          "std_dev": 1.74,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -115,
+          "std_dev": 3.18,
+          "anomaly_flag": "SIGNAL_SHADOWING"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_11",
+      "ground_truth_m": 0.98,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -44.11,
+          "std_dev": 3.49,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -44.0,
+          "std_dev": 1.6,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -43.81,
+          "std_dev": 3.38,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_12",
+      "ground_truth_m": 2.39,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -54.93,
+          "std_dev": 2.18,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -54.14,
+          "std_dev": 3.84,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -53.4,
+          "std_dev": 1.9,
+          "anomaly_flag": "None"
+        }
+      ]
+    },
+    {
+      "point_id": "P13_13",
+      "ground_truth_m": 4.42,
+      "readings": [
+        {
+          "ssid": "Bracket_Anchor_A",
+          "bssid": "00:1A:2B:3C:4D:5E",
+          "rssi": -54.1,
+          "std_dev": 2.87,
+          "anomaly_flag": "None"
+        },
+        {
+          "ssid": "Bracket_Anchor_B",
+          "bssid": "00:1A:2B:3C:4D:5F",
+          "rssi": -115,
+          "std_dev": 0.88,
+          "anomaly_flag": "SIGNAL_SHADOWING"
+        },
+        {
+          "ssid": "Bracket_Anchor_C",
+          "bssid": "00:1A:2B:3C:4D:60",
+          "rssi": -54.71,
+          "std_dev": 1.94,
+          "anomaly_flag": "None"
+        }
+      ]
+    }
+  ]
+}

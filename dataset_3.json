@@ -1,0 +1,82 @@
+[
+    {
+        "input": 0.64,
+        "label": "moderate"
+    },
+    {
+        "input": 0.81,
+        "label": "noise"
+    },
+    {
+        "input": 0.32,
+        "label": "clean"
+    },
+    {
+        "input": 0.33,
+        "label": "clean"
+    },
+    {
+        "input": 0.98,
+        "label": "noise"
+    },
+    {
+        "input": 0.89,
+        "label": "noise"
+    },
+    {
+        "input": 0.58,
+        "label": "moderate"
+    },
+    {
+        "input": 0.92,
+        "label": "noise"
+    },
+    {
+        "input": 0.59,
+        "label": "moderate"
+    },
+    {
+        "input": 0.28,
+        "label": "clean"
+    },
+    {
+        "input": 0.23,
+        "label": "clean"
+    },
+    {
+        "input": 0.15,
+        "label": "clean"
+    },
+    {
+        "input": 0.63,
+        "label": "moderate"
+    },
+    {
+        "input": 0.69,
+        "label": "noise"
+    },
+    {
+        "input": 0.12,
+        "label": "clean"
+    },
+    {
+        "input": 0.65,
+        "label": "noise"
+    },
+    {
+        "input": 0.14,
+        "label": "clean"
+    },
+    {
+        "input": 0.95,
+        "label": "noise"
+    },
+    {
+        "input": 0.32,
+        "label": "clean"
+    },
+    {
+        "input": 0.31,
+        "label": "clean"
+    }
+]
