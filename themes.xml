@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Braket" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/braket_primary</item>
+        <item name="colorPrimaryVariant">@color/braket_primary_variant</item>
+        <item name="colorSecondary">@color/braket_secondary</item>
+        <item name="android:colorBackground">@color/braket_background</item>
+        <item name="colorSurface">@color/braket_surface</item>
+        <item name="colorError">@color/braket_error</item>
+        <item name="colorOnPrimary">@color/braket_on_primary</item>
+        <item name="colorOnSecondary">@color/braket_on_secondary</item>
+        <item name="colorOnBackground">@color/braket_on_background</item>
+        <item name="windowActionBar">true</item>
+    </style>
+</resources>

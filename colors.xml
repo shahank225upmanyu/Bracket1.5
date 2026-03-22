@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="braket_primary">#1A2E4A</color>
+    <color name="braket_primary_variant">#2563EB</color>
+    <color name="braket_secondary">#0D9488</color>
+    <color name="braket_background">#FFFFFF</color>
+    <color name="braket_surface">#F8FAFC</color>
+    <color name="braket_error">#DC2626</color>
+    <color name="braket_on_primary">#FFFFFF</color>
+    <color name="braket_on_secondary">#FFFFFF</color>
+    <color name="braket_on_background">#111827</color>
+</resources>

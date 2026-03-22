@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Braket 1.5</string>
+    <string name="anchor_mode">Anchor Mode</string>
+    <string name="target_mode">Target Mode</string>
+    <string name="start_broadcasting">Start Broadcasting</string>
+    <string name="stop_broadcasting">Stop Broadcasting</string>
+    <string name="start_streaming">Start Streaming</string>
+    <string name="stop">Stop</string>
+    <string name="scanning">Scanning for anchors…</string>
+    <string name="no_anchors">No Braket anchors visible</string>
+    <string name="permission_rationale">Location and Bluetooth permissions are required for BLE positioning. Without them, the app cannot scan for beacon anchors.</string>
+</resources>

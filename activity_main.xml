@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Braket 1.5"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Smartphone Cluster Positioning"
+        android:textSize="14sp"
+        android:alpha="0.6"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:id="@+id/btnAnchorMode"
+        android:layout_width="240dp"
+        android:layout_height="56dp"
+        android:text="Anchor Mode"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"
+        style="@style/Widget.Material3.Button"/>
+
+    <Button
+        android:id="@+id/btnTargetMode"
+        android:layout_width="240dp"
+        android:layout_height="56dp"
+        android:text="Target Mode"
+        android:textSize="16sp"
+        android:layout_marginBottom="32dp"
+        style="@style/Widget.Material3.Button.OutlinedButton"/>
+
+    <TextView
+        android:id="@+id/tvServerHint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Server: ws://…"
+        android:textSize="12sp"
+        android:fontFamily="monospace"
+        android:alpha="0.5"/>
+
+</LinearLayout>

@@ -1,0 +1,43 @@
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/.idea/
+android/**/*.iml
+*.apk
+*.aab
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Server data (generated at runtime — do not commit)
+server/data/radio_map.json
+server/data/mag_map.json
+server/data/watchdog_model.pkl
+server/logs/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/
